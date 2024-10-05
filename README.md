@@ -1,4 +1,5 @@
 # Projeto: Site utilizando Bootstrap
+Projeto de site desenvolvido para a matéria de Web design do curso de Engenharia da computação.
 
 ## Idiomas
 
@@ -8,7 +9,7 @@
 ## Exercício Proposto
 
 - Criar uma página usando Bootstrap
-- Componentes:
+- Componentes
   - Navbar
   - Carousel
   - 8 cards com imagem, título e descrição
